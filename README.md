@@ -152,8 +152,8 @@ The Kafka topic `jobs-topic` is used to hold job messages. The topic must be cre
 ---
 ## 📸 Screenshots
 
-### Example 1
-![Example 1](public/images/example1.png)
+### SS 1
+![Example](public/images/example.png)
 
-### Example 2
+### SS 2
 ![Example 2](public/images/example2.png)
