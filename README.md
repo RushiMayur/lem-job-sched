@@ -21,7 +21,8 @@ This is a job scheduling application that uses Kafka for asynchronous messaging 
 - **Backend**: The backend is built using Node.js and Next.js API routes. The `kafkajs` library is used to interact with Kafka for asynchronous job scheduling. [pages/api/schedule.js](pages/api/schedule.js)
  (pages/api/schedule.js)
 - **Kafka**: Kafka is used to send job messages to a Kafka topic (`jobs-topic`), where the jobs are processed asynchronously.
-- **Docker**: Docker Compose is used to set up Kafka and Zookeeper for message brokering.
+- **Docker**: Docker Compose is used to set up Kafka and Zookeeper for message brokering. [View docker-compose.yml](https://github.com/RushiMayur/lem-job-sched/blob/master/docker-compose.yml)
+
 
 ---
 
