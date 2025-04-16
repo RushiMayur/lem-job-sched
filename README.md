@@ -150,3 +150,10 @@ The Kafka topic `jobs-topic` is used to hold job messages. The topic must be cre
    - Check if the `jobs-topic` exists in Kafka and the Kafka consumer is correctly processing messages.
 
 ---
+## 📸 Screenshots
+
+### Example 1
+![Example 1](public/images/example1.png)
+
+### Example 2
+![Example 2](public/images/example2.png)
