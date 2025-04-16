@@ -45,8 +45,8 @@ This is a job scheduling application that uses Kafka for asynchronous messaging 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/RushiMayur/lem-job-sched
-   cd lem-job-sched
+   git clone https://github.com/RushiMayur/lem-job-sched.git lem-job-sched-clone
+   cd lem-job-sched-clone
    ```
 
 2. **Install dependencies**:
